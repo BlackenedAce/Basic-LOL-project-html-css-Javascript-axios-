@@ -1,0 +1,17 @@
+{
+  "name": "vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.8"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "env": "^0.0.2",
+    "testing": "^2.0.1"
+  }
+}
